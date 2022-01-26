@@ -1,0 +1,6 @@
+one of the volunteer trainers
+30 minutes a day 5 days a week is healthy
+questions aimed at trainers understanding the program 
+the program takes in you search field dynamicly and then looks for it in the database, if it is not there then it will display an error 
+when you try to get more than one pieace of infomation from a database the database has an internal conflict with which must access it first 
+if you add values that are of the wrong type then it can not post in the database 
